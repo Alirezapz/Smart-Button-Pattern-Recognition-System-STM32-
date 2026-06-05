@@ -94,6 +94,8 @@ This project implements a real-time button press pattern recognition system usin
 
 ## 📷 
 
+<img width="3000" height="4000" alt="20260209_191009" src="https://github.com/user-attachments/assets/30cb4369-d760-4f00-8318-de2250424790" />
+
 ---
 
 ## 📜 License
